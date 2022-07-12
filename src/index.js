@@ -1,7 +1,10 @@
 import _ from 'lodash';
 import './style.css';
+import "./style.scss";
 import Logo from './logo-black.png'
 import printMe from './print.js';
+
+
 
 function component() {
   const element = document.createElement('div');
