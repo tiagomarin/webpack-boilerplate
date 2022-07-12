@@ -1,1 +1,0 @@
-{"version":3,"file":"print.bundle.js","mappings":";;;;;;;;;;;;;AAAe;AACf;AACA","sources":["webpack://webpack-boilerplate/./src/print.js"],"sourcesContent":["export default function printMe() {\n  console.log('I get called from print.js!');\n}"],"names":[],"sourceRoot":""}
