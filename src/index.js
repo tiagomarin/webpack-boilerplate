@@ -3,8 +3,6 @@ import './style.css';
 import Logo from './logo-black.png'
 import printMe from './print.js';
 
-
-
 function component() {
   const element = document.createElement('div');
   const btn = document.createElement('button');
